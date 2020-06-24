@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
     private var count = 0
     lateinit var viewModel: MainActivityViewModel
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
